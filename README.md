@@ -10,7 +10,7 @@ __Create the files in the following order__
 > &nbsp;     |--- example_pkg <br/>
 > &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;       |---    \__init__.py <br/>
 > &nbsp; |--- setup.py <br/>
-> &nbsp; |---tests <br/>
+> &nbsp; |--- tests <br/>
 
 
 Write yout functions in the \__init__.py file.
