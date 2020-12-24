@@ -4,13 +4,13 @@ The Python Package Index (PyPI) is a repository of software for the Python progr
 So all python packages are stored in PyPi
 
 __Create the files in the following order__
-> packaging_tutorial
-&nbsp; |--- LICENSE
-&nbsp; |--- README.md
-> &nbsp;     |--- example_pkg
-> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;       |---    \__init__.py
-> &nbsp; |--- setup.py
-> &nbsp; |---tests
+> packaging_tutorial <br/>
+&nbsp; |--- LICENSE <br/>
+&nbsp; |--- README.md <br/>
+> &nbsp;     |--- example_pkg <br/>
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp;       |---    \__init__.py <br/>
+> &nbsp; |--- setup.py <br/>
+> &nbsp; |---tests <br/>
 
 
 Write yout functions in the \__init__.py file.
