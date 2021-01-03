@@ -1,4 +1,4 @@
-# Getting Started With Making Your Own Python Package
+# Making Your Own Python Package <img src="https://www.freepngimg.com/download/android/72537-icons-python-programming-computer-social-tutorial.png" width="100"/>
 
 The Python Package Index (PyPI) is a repository of software for the Python programming language.
 So all python packages are stored in PyPi
